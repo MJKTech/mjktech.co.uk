@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "Bespoke Web Development";
+$pageTitle = "Bespoke Web Design and Development";
 include('partials/page-top.php');
 ?>
     
